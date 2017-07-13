@@ -1,0 +1,9 @@
+{
+    "login": "XXX",
+    "password": "XXX",
+    "securityToken": "XXXX",
+    "sfLogonUrl": "https://test.salesforce.com",
+    "topic": "XXX",
+    "clientId": "XXX",
+    "clientSecret": "XXX"
+}
