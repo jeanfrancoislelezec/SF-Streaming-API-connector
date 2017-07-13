@@ -1,0 +1,12 @@
+{
+  "name": "Azure-webjobs-sf-streaming-api",
+  "version": "1.0.0.0",
+  "description": "basic sample to receive notification from sf through streamingAPi",
+  "main": "run.js",
+  "dependencies": {
+    "JSForce": "1.0.0.0",
+    "azure": "^2.0.0-preview",
+    "jsforce": "^1.7.1",
+    "nconf": "^0.8.2"
+  }
+}
